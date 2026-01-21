@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Valor Chicken Road Guide: Rules, RTP, INR Play &amp; Tips on Chickenroadapp-bonus</title>
-    <link>http://chickenroadapp-bonus.com/valor/</link>
+    <link>http://localhost:1313/valor/</link>
     <description>Recent content in Valor Chicken Road Guide: Rules, RTP, INR Play &amp; Tips on Chickenroadapp-bonus</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://chickenroadapp-bonus.com/valor/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/valor/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
