@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://chickenroadapp-bonus.com:1313/sitemap.xml
+Sitemap: http://chickenroadapp-bonus.com/sitemap.xml
